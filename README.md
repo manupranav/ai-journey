@@ -93,7 +93,7 @@ $ cd backend && nodemon index.js
 ## Link
 
 - GitHub Link: [GitHub](https://github.com/manupranav/ai-journey)
-- Live Site Link: [AI-Journey](https://aijourney.netlify.app/create-post)
+- Live Site Link: [AI-Journey](https://aijourney.netlify.app)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
