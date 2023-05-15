@@ -13,7 +13,7 @@
 <div align="center">
 
   <a href="https://github.com/manupranav/ai-journey">
-    <img src="media/logo.png" alt="Logo" width="120" height="120">
+    <img src="./media/logo.png" alt="Logo" width="120" height="120">
   </a>
 
 <h3 align="center">AI Journey</h3>
